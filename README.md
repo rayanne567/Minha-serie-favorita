@@ -11,13 +11,13 @@ As funcionalidades que serão implementadas no projeto incluem:
 - Rodapé: Um rodapé com informações sobre o autor e o ano será incluído no final da página, fixado na parte inferior.
 
 ## Cronograma de Desenvolvimento
-Etapa	Descrição	Prazo Estimado
-- Planejamento e Estruturação	Definição do layout, estrutura HTML e planejamento das funcionalidades.	05/12/2024
-- Desenvolvimento do HTML	Criação das páginas HTML com os dados básicos e estrutura do site.	07/12/2024
-- Desenvolvimento do CSS	Estilização das páginas com cores, fontes e ajustes de layout responsivo.	09/12/2024
-- Implementação do JavaScript	Criação do arquivo data.js para carregar conteúdo dinamicamente.	11/12/2024
-- Testes e Ajustes Finais	Testar a responsividade, corrigir bugs e otimizar o design.	13/12/2024
-- Documentação e Deploy	Criar o arquivo README.md, documentar o processo e publicar o site.	15/12/2024
+
+- Planejamento e Estruturação	Definição do layout, estrutura HTML e planejamento das funcionalidades.	04/12/2024
+- Desenvolvimento do HTML	Criação das páginas HTML com os dados básicos e estrutura do site.	04/12/2024
+- Desenvolvimento do CSS	Estilização das páginas com cores, fontes e ajustes de layout responsivo.	04/12/2024
+- Implementação do JavaScript	Criação do arquivo data.js para carregar conteúdo dinamicamente.	05/12/2024
+- Testes e Ajustes Finais	Testar a responsividade, corrigir bugs e otimizar o design.	05/12/2024
+- Documentação e Deploy	Criar o arquivo README.md, documentar o processo e publicar o site.	05/12/2024
 
 ## Processo de Desenvolvimento
 Durante o desenvolvimento do projeto, alguns desafios e soluções foram encontrados:
@@ -31,6 +31,6 @@ Durante o desenvolvimento do projeto, alguns desafios e soluções foram encontr
 ## Como o Git Ajudou
 O Git foi fundamental para o gerenciamento do projeto. 
 - Utilizei o controle de versão para manter um histórico claro do desenvolvimento do site, permitindo que pudéssemos revisar as alterações feitas ao longo do tempo. 
-- O Git também facilitou a colaboração e o trabalho contínuo no projeto, permitindo que qualquer erro fosse facilmente revertido e que diferentes versões do código fossem testadas sem comprometer a versão final.
+- O Git também facilitou o trabalho contínuo no projeto, permitindo que qualquer erro fosse facilmente revertido e que diferentes versões do código fossem testadas sem comprometer a versão final.
 
-- Commits Frequentes: Realizamos commits frequentes, permitindo um controle detalhado das mudanças.
+- Commits Frequentes: Realizei commits frequentes, permitindo um controle detalhado das mudanças.
