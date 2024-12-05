@@ -29,6 +29,8 @@ Durante o desenvolvimento do projeto, alguns desafios e soluções foram encontr
 - Desafio com o Estilo Visual: Encontrar as cores ideais para o tema roxo, ao mesmo tempo em que o design permanecia limpo e moderno, foi um desafio, mas foi resolvido com a escolha de tons suaves e contrastantes.
 
 ## Como o Git Ajudou
-O Git foi fundamental para o gerenciamento do projeto. Utilizamos o controle de versão para manter um histórico claro do desenvolvimento do site, permitindo que pudéssemos revisar as alterações feitas ao longo do tempo. O Git também facilitou a colaboração e o trabalho contínuo no projeto, permitindo que qualquer erro fosse facilmente revertido e que diferentes versões do código fossem testadas sem comprometer a versão final.
+O Git foi fundamental para o gerenciamento do projeto. 
+- Utilizei o controle de versão para manter um histórico claro do desenvolvimento do site, permitindo que pudéssemos revisar as alterações feitas ao longo do tempo. 
+- O Git também facilitou a colaboração e o trabalho contínuo no projeto, permitindo que qualquer erro fosse facilmente revertido e que diferentes versões do código fossem testadas sem comprometer a versão final.
 
 - Commits Frequentes: Realizamos commits frequentes, permitindo um controle detalhado das mudanças.
